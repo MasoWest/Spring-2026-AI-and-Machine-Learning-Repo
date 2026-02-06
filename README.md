@@ -8,6 +8,6 @@ https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/L
 
 <a href="https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">Reading Various Types of Files in Colab</a><br>
 
-<a href = "https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/regularization.ipynb1"> Regularization</a><br>
+<a href = "https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/regularization.ipynb"> Regularization</a><br>
  
 This repository contains coursework and projects for CIS 3902.

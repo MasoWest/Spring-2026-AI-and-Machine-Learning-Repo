@@ -14,4 +14,6 @@ https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/E
 
 https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/Data_Cleaning_Exercise.ipynb
 
+https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/Data_Cleaning_Exercise_Class.ipynb
+
 This repository contains coursework and projects for CIS 3902.

@@ -18,4 +18,6 @@ https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/D
 
 https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/Mushroom_Reduced_Student.ipynb
 
+https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/AutovizNewMGW.ipynb
+
 This repository contains coursework and projects for CIS 3902.

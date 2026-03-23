@@ -20,4 +20,6 @@ https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/M
 
 https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/AutovizNewMGW.ipynb
 
+https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/random_forest_crime_assignment_MGW.ipynb
+
 This repository contains coursework and projects for CIS 3902.

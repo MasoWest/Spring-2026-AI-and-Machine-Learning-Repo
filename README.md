@@ -22,4 +22,6 @@ https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/A
 
 https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/random_forest_crime_assignment_MGW.ipynb
 
+https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/cohens_kappa_ml_notebook%20(1).ipynb
+
 This repository contains coursework and projects for CIS 3902.

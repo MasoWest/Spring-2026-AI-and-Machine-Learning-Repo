@@ -24,4 +24,6 @@ https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/r
 
 https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/cohens_kappa_ml_notebook%20(1).ipynb
 
+https://github.com/MasoWest/Spring-2026-AI-and-Machine-Learning-Repo/blob/main/Customer_Segmentation_Using_Clustering.ipynb - This ipynb file studies clustering via analysis of a dataset revolving around the age, gender, income and propensity to spend among subjects in the data. It's purpose was to determine the best population to direct a limited marketing budget towards.
+
 This repository contains coursework and projects for CIS 3902.
